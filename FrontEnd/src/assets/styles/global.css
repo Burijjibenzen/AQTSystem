@@ -1,0 +1,14 @@
+* {
+    font-family: 'Inter', sans-serif !important;
+    user-select: none;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    min-width: 1440px;
+    min-height: 800px;
+    overflow-x: auto;
+    overflow-y: auto;
+    box-sizing: border-box;
+}
